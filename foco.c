@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//AKEMII
 int main(){
 	int estadoFoco=0;
 	int respuesta;
